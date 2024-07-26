@@ -35,8 +35,14 @@ Run npm install (inside project folder.)
 
 ## Development server 
 
-Run `ng serve` for a dev server. Once the Gene Backend is Running.
-Navigate to `http://localhost:4200/home`
+1. If angular is installed globally with  `npm install -g @angular/cli`
+Run `ng serve` for a dev server.
+
+2. If angular is installed locally run the development server using npx
+`npx ng serve`
+
+3. If a port is not specified by default it will use 4200
+4. Once the server is running, make sure that GeneGenieWebAppBackend server is also running and go to http://localhost:4200/home in your browser of choice.
 
 ## Build
 
