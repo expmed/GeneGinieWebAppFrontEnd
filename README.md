@@ -1,6 +1,11 @@
+# GeneGinie Project
+
+[Project Overview and architecture information](https://drive.google.com/file/d/1LLVk6F5CWMrpBzZxysWPCxlLPgrhoW2i/view?usp=sharing) 
+
 # GeneWebappFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
+This repository holds the code for the Angular Frontend dashboard.
+The Frontend was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.0.
 
 ## Basics and Requirements
 
